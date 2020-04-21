@@ -1,0 +1,5 @@
+##to update forked repo with new files from master
+
+git fetch upstream
+
+git merge upstream/master
