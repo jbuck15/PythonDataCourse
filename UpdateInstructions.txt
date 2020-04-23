@@ -1,5 +1,7 @@
 ##to update forked repo with new files from master
 
+navigate to the appropriate library
+
 git fetch upstream
 
 git merge upstream/master
